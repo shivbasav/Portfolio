@@ -1,0 +1,87 @@
+import { Experience } from '../types';
+
+export const experience: Experience[] = [
+  {
+    id: 'e1',
+    role: 'Developer Specialist',
+    company: 'Google Operations',
+    location: 'Hyderabad, India',
+    period: 'April 2024 - Present',
+    bullets: [
+      'Developed and deployed Jest-based testing tool reducing regression testing time and increasing team productivity by 40%, saving 7 hours per week in QA efforts',
+      'Developed and deployed AI-powered chatbot integrated with Knowledge Base, improving customer self-service and efficiently addressing inquiries',
+      'Engineered and launched real-time analytics dashboard using Angular, leading to 60% productivity increase across multiple teams and saving 10 hours per week per team in operational monitoring',
+    ],
+  },
+  {
+    id: 'e2',
+    role: 'Application Development Senior Analyst',
+    company: 'Accenture',
+    location: 'Bengaluru, India',
+    period: 'December 2021 - April 2024',
+    bullets: [
+      'Developed, tested, and maintained critical web service applications, adhering to best practices and ensuring high system reliability',
+      'Collaborated with stakeholders to gather and analyze requirements, translating complex business needs into detailed technical specifications for program development',
+      'Led troubleshooting and in-depth issue analysis for web applications; successfully coded, tested, and implemented software enhancements to improve functionality and performance',
+      'Assumed leadership responsibilities in lead\'s absence, managing team tasks and ensuring project continuity',
+    ],
+  },
+  {
+    id: 'e3',
+    role: 'Application Development Analyst',
+    company: 'Accenture',
+    location: 'Belgaum, India',
+    period: 'June 2021 - November 2021',
+    bullets: [
+      'Developed user-facing features, enhancing application interactivity and user experience',
+      'Engineered and documented reusable front-end components and libraries, accelerating future development cycles and ensuring code consistency',
+      'Translated complex designs and wireframes into high-quality, responsive code',
+      'Optimized front-end components for major American telecommunication company, increasing page load speed by 20% across various web-capable devices and browsers',
+    ],
+  },
+  {
+    id: 'e4',
+    role: 'Software Developer',
+    company: 'HummingWave Technologies',
+    location: 'Bangalore, India',
+    period: 'November 2020 - April 2021',
+    bullets: [
+      'Developed advanced and responsive UI using React, CSS, and Bootstrap for diverse web applications',
+      'Created reusable UI components and complex graph components for data visualization',
+      'Integrated WEB and REST APIs to enhance application functionality and data exchange',
+      'Mentored and trained new hires in React, CSS, and front-end best practices, accelerating their onboarding and productivity',
+      'Spearheaded development of new project requirements, coordinating effectively with team and assigning tasks to meet deadlines',
+      'Conducted regular code reviews to ensure code quality and adherence to development standards',
+    ],
+  },
+  {
+    id: 'e5',
+    role: 'Software Engineer',
+    company: 'iChange Environment Mgmt. Pvt. Ltd',
+    location: 'Bangalore, India',
+    period: 'October 2019 - November 2020',
+    bullets: [
+      'Developed reusable UI components with ReactJs for e-commerce platform, reducing development time by 15%',
+      'Built responsive user interfaces for admin dashboards and public storefront web portals',
+      'Integrated GraphQL APIs to streamline data management of product catalogs and user profiles',
+      'Led team in developing and maintaining admin portal, including task delegation, sprint planning, and workflow management',
+      'Resolved complex technical issues related to web portals and API integration, ensuring system stability and high availability',
+      'Designed and implemented automated end-to-end testing system with Taiko and Chance.js, significantly reducing manual testing and improving bug detection by 25% in pre-production',
+      'Proactively communicated with product managers and CTO to ensure smooth development and alignment with business objectives',
+    ],
+  },
+  {
+    id: 'e6',
+    role: 'Software Developer',
+    company: 'Makemyhall Pvt. Ltd',
+    location: 'Bangalore, India',
+    period: 'July 2018 - July 2019',
+    bullets: [
+      'Developed new, highly-responsive, web-based user interfaces to enhance user engagement',
+      'Identified and resolved software defects through meticulous debugging and code analysis',
+      'Contributed to maintenance, updating, and creation of application databases',
+      'Assumed leadership responsibilities in team lead\'s absence, assigning tasks to associates and organizing team meetings to maintain project momentum',
+      'Proactively communicated with clients and managers to clarify requirements and resolve issues, ensuring project alignment',
+    ],
+  },
+];
