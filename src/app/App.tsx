@@ -23,7 +23,7 @@ export default function App() {
         <Contact />
       </main>
       <Footer />
-      {/* <AIAssistant /> */}
+      <AIAssistant />
     </>
   );
 }
