@@ -28,7 +28,7 @@ export const Contact = () => {
           </p>
           <Button
             onClick={() => {
-              window.location.href = 'mailto:shivabasava@example.com';
+              window.location.href = 'mailto:shivbasavnandargi@gmail.com';
             }}
           >
             Say Hello
