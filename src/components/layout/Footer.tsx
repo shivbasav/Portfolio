@@ -12,13 +12,13 @@ export const Footer = () => {
             <p className={styles.tagline}>Building the future with AI and Code</p>
           </div>
           <div className={styles.social}>
-            <a href="https://github.com/shivabasava" target="_blank" rel="noopener noreferrer">
+            <a href="https://github.com/shivbasav" target="_blank" rel="noopener noreferrer">
               GitHub
             </a>
-            <a href="https://linkedin.com/in/shivabasava" target="_blank" rel="noopener noreferrer">
+            <a href="https://www.linkedin.com/in/shivabasava-nandargi-91a603a0/" target="_blank" rel="noopener noreferrer">
               LinkedIn
             </a>
-            <a href="https://twitter.com/shivabasava" target="_blank" rel="noopener noreferrer">
+            <a href="https://x.com/Shivbasav24295" target="_blank" rel="noopener noreferrer">
               Twitter
             </a>
           </div>

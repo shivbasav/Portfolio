@@ -66,7 +66,7 @@ export const Hero = () => {
             Download Resume
           </Button>
           <Button variant="secondary" onClick={() => {
-            window.open('https://github.com/shivabasava', '_blank');
+            window.open('https://github.com/shivbasav', '_blank');
           }}>
             View GitHub
           </Button>
