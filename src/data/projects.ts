@@ -35,7 +35,7 @@ export const projects: Project[] = [
     description: 'Production-scale knowledge management system serving 10K+ users with semantic search, entity extraction, and intelligent recommendations.',
     status: 'shipped',
     tech: ['Angular', 'TypeScript', 'GraphQL', 'Vector DBs', 'CI/CD'],
-    link: 'https://example.com',
+   // link: 'https://example.com',
   },
   {
     id: 'p6',
@@ -43,6 +43,6 @@ export const projects: Project[] = [
     description: 'Comprehensive testing suite with contract testing, integration tests, and automated E2E scenarios. Reduced production incidents by 85%.',
     status: 'shipped',
     tech: ['Jest', 'TypeScript', 'REST APIs', 'CI/CD', 'GCP'],
-    github: 'https://github.com/shivabasava',
+    //github: 'https://github.com/shivabasava',
   },
 ];
